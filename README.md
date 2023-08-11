@@ -1,0 +1,2 @@
+# GnomeInstaller
+install gnome desktop
